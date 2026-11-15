@@ -3,7 +3,7 @@ import re
 import sys
 
 BADGE = (
-    '<div id="testBadge" style="position:fixed;top:8px;right:8px;z-index:9;padding:4px 8px;'
+    '<div id="testBadge" style="position:fixed;bottom:8px;right:8px;z-index:9;pointer-events:none;padding:4px 8px;'
     'background:#f8d800;color:#000;font:700 12px system-ui,sans-serif;border-radius:4px">test build</div>'
 )
 

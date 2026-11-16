@@ -8,7 +8,8 @@ import rsdk_scripts as R
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 CHANGES = [
-    ("GlobalCode.bin", 3775, [-425984], [-850000]),
+    ("GlobalCode.bin", 15450, [-458752], [-900000]),
+    ("GlobalCode.bin", 15683, [-458752], [-900000]),
 ]
 
 
